@@ -1,4 +1,4 @@
-# Markdown Crash Course by Traversy Media (Youtube)
+# Markdown Crash Course 
 
  ## - What is Markdown ? 
 
